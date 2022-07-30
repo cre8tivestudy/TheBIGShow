@@ -1,34 +1,34 @@
 [
     {
-        "id": "1655748319",
-        "image": "https://i.ytimg.com/vi/aG8KWYko8VY/maxresdefault.jpg",
-        "title": "Kota Factory season 1 and 2",
-        "desc": "Kota Factory All Seasons. Audio : English Or Hindi Quality : 480p , 720p , 1080p HDRip",
-        "verticlebanner": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
-        "videolinks": "https://raw.githubusercontent.com/cre8tivestudy/TheBIGShow/main/api/KotaFactory/markdown.html"
+        "id": "566525",
+        "categoryWithId": "/movie/566525",
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "image": "https://i.ytimg.com/vi/xPdmPVbW7tY/maxresdefault.jpg",
+        "date": "09/03/2021 (US)",
+        "score": "77.0"
     },
     {
-        "id": "1655748499",
-        "image": "https://images.thedirect.com/media/article_full/bwnew.jpg",
-        "title": "Kota Factory season 1 and 2 2",
-        "desc": "Kota Factory All Seasons. Audio : English Or Hindi Quality : 480p , 720p , 1080p HDRip",
-        "verticlebanner": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6f/Black_Widow_July_9_Poster.png/revision/latest?cb=20210629170602",
-        "videolinks": "https://raw.githubusercontent.com/cre8tivestudy/TheBIGShow/main/api/KotaFactory/markdown.html"
+        "id": "616037",
+        "categoryWithId": "/movie/616037",
+        "title": "Thor: Love and Thunder",
+        "image": "https://iforum-sg.c.hihonor.com/latin/latin_data/images/10000/2022/7/21/9d5955ff-d846-4093-b7cd-4657fb6e8d16.jpeg",
+        "date": "07/08/2022 (US)",
+        "score": "67.0"
     },
     {
-        "id": "1655748510",
-        "image": "https://image.tmdb.org/t/p/w780/kmCBLNHsNnlDEtghSaF2nabpG2T.jpg",
-        "title": "Kota Factory season 1 and 2 3",
-        "desc": "Kota Factory All Seasons. Audio : English Or Hindi Quality : 480p , 720p , 1080p HDRip",
-        "verticlebanner": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/morbius_onesheet_1400x2100_he.jpg?itok=-jQVkWIe",
-        "videolinks": "https://raw.githubusercontent.com/cre8tivestudy/TheBIGShow/main/api/KotaFactory/markdown.html"
+        "id": "507086",
+        "categoryWithId": "/movie/507086",
+        "title": "Jurassic World Dominion",
+        "image": "https://gumlet.assettype.com/swarajya%2F2022-06%2Faa02958d-2e39-4c03-82b3-51b19358bd50%2Fdominion.jpg?auto=format%2Ccompress&w=400&dpr=2.6",
+        "date": "06/10/2022 (US)",
+        "score": "71.0"
     },
     {
-        "id": "1655748520",
-        "image": "https://i.ytimg.com/vi/UV3bfDSFypU/maxresdefault.jpg",
-        "title": "Kota Factory season 1 and 2",
-        "desc": "Kota Factory All Seasons. Audio : English Or Hindi Quality : 480p , 720p , 1080p HDRip",
-        "verticlebanner": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
-        "videolinks": "https://raw.githubusercontent.com/cre8tivestudy/TheBIGShow/main/api/KotaFactory/markdown.html"
+        "id": "453395",
+        "categoryWithId": "/movie/453395",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "image": "https://images.thedirect.com/media/article_full/doctor-strange-2-post-credits-scene.jpg",
+        "date": "05/06/2022 (US)",
+        "score": "75.0"
     }
 ]
